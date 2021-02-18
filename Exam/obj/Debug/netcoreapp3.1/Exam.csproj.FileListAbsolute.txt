@@ -1,0 +1,16 @@
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\NLog.config
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+G:\Проекты\Exam\Exam\bin\Debug\netcoreapp3.1\NLog.dll
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CopyComplete
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+G:\Проекты\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
